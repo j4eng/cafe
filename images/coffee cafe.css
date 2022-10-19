@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+#head1{
+    height: 70px;
+    width: 1500px;
+    background-color: rgb(194, 157, 108);
+}
+a{
+    margin-right: 30px;
+}
+#img1{
+    margin-left: 30px;
+}
+#c2{
+    height: 80px;
+    width: 2000px;
+    background-color: brown;
+}
+#c3{
+    height: 300px;
+    width: 10px;
+    margin-left: 30px;
+    background-color: rgb(78, 65, 20);
+    position: relative;
+    
+}
+#text1{
+    font-family:'Dancing Script', cursive ; 
+    text-align: start;
+    position: absolute;
+    left: 30px;
+
+}
+body{
+    background-color: lightpink;
+}
+
+h1{
+    font-family:'Dancing Script', cursive ;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(95, 57, 57);
+    
+}
+p{
+    font-family:'Dancing Script', cursive ; 
+    text-align: center;
+    
+}
+img{
+    margin-left: 830px;
+}
+#c4{
+    height: 70px;
+    width: 1500px;
+    margin-left: 30px;
+    background-color: rgb(68, 38, 11);
+    font-size: xx-large;
+    color: aliceblue;
+}
+#footer1{
+    height: 250px;
+    width: 1000px;
+    background-color: rgb(46, 11, 11);
+    position: relative;
+}
+.col-1{
+    height: 250px;
+    width: 120px;
+    position: absolute;
+    left: 30px;
+   background-color: rgb(223, 208, 208);
+   border-radius: 2px;
+   border-color: aliceblue;
+   color: rgb(12, 13, 14);
+   font-family: 'Times New Roman', Times, serif;
+   text-align: left;
+}
+#f1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-2{
+    height: 250px;
+    width: 120px;
+    position: absolute;
+    left: 280px;
+   background-color: rgb(223, 208, 208);
+   border-radius: 2px;
+   border-color: aliceblue;
+   color: rgb(12, 13, 14);
+   font-family: 'Times New Roman', Times, serif;
+   text-align: left;
+}
